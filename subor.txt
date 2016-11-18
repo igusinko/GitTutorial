@@ -1,3 +1,4 @@
 ddahoj ja som novy subor
 s
+toto pridal igusinko
 ### added SSH key a este tot o
